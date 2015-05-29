@@ -1,0 +1,9 @@
+[submodule "config"]
+	path = config
+	url = git@github.com:goatsys/config.git
+[submodule "logger"]
+	path = logger
+	url = git@github.com:goatsys/logger.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:goatsys/docs.git
